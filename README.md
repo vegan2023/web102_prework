@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 noteId: "979139c0cf5d11ef82e29d8726d5a49d"
 tags: []
@@ -57,3 +58,6 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+=======
+# web102_prework
+>>>>>>> parent of bbf4bb7 (Merge pull request #1 from isabel-gwara/main)
